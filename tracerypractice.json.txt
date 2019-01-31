@@ -1,0 +1,83 @@
+{
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this to #happen# their #thing#...what #happens# #next# #might# #surprise# #you#..."
+	],
+	"name": [
+		"Mark",
+		"David",
+		"Chad",
+		"Michael",
+		"Stephanie",
+		"Beth",
+		"Aiden",
+		"Lucas",
+		"Emma"
+	],
+	"occupation": [
+		"doctor",
+		"psychologist",
+		"professor",
+		"teacher",
+		"scientist",
+		"dentist"
+	],
+	"always": [
+		"always",
+		"never",
+		"hardly",
+		"rarely"
+	],
+	"expecting": [
+		"expecting",
+		"anticipating",
+		"imagining",
+		"predicting"
+	],
+	"happen": [
+		"happen to",
+		"occur to",
+		"develop when it came to",
+		"befall"
+	],
+	"thing": [
+		"job",
+		"salary",
+		"boss",
+		"workplace",
+		"mother",
+		"father",
+		"home",
+		"earnings"
+	],
+	"might": [
+		"might",
+		"will",
+		"could",
+		"may"
+	],
+	"surprise": [
+		"surprise",
+		"shock",
+		"amaze",
+		"astound"
+	],
+	"next": [
+		"next",
+		"afterwards",
+		"after"
+	],
+	"happens": [
+		"happens",
+		"comes to light",
+		"emerges",
+		"surfaces"
+	],
+	"you": [
+		"you",
+		"women",
+		"men",
+		"people you know",
+		"you and your friends",
+		"parents"
+	]
+}
